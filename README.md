@@ -11,6 +11,8 @@ I'm
 <br />
 <img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/welcome/db8d9fd7ef516adb0490647226840c08b155b24b/svg/emojis/mzubair21.svg?token=ANY3XUVVLC7DHKDBZN55XWLA5Q7R2" />
 
+<br />
+
 [![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)](https://mzubair21.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzubihyper&screen_name=zubihyper)
 
@@ -21,6 +23,8 @@ I'm
     I am also taking an active part in technical communities. I am DSC NUML Content Lead and seeking more learning opportunities.
 </p>
 
+<br />
+<br />
 <!-- Statistics -->
 
 <p align="center" >
@@ -50,7 +54,6 @@ I'm
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
