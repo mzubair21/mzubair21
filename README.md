@@ -10,7 +10,7 @@ I'm
 
 <br />
 <p align="right">
-<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/mzubair21/master/svg/emojis/mzubair21.svg" />
+<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/welcome/8c17d944feada9fcac3aa9301baa6ae659a5c0a6/svg/emojis/mzubair21.svg?token=ANY3XUVMCGQW54ZPASL6X7LA5Q5SS" />
 
 <p align="center">
 
