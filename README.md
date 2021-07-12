@@ -11,7 +11,7 @@ I'm
 <br />
 <p>
 <p align="right">
-<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/welcome/8c17d944feada9fcac3aa9301baa6ae659a5c0a6/svg/emojis/mzubair21.svg?token=ANY3XUVMCGQW54ZPASL6X7LA5Q5SS" />
+<img height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/welcome/28216dc5bcd50082cf280512874d42d9bcb9b9bb/svg/emojis/mzubair21.svg?token=ANY3XUQILG7CZFT53YHDWB3A5Q6RC" />
 
 <br />
 <br />
