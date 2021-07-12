@@ -1,4 +1,4 @@
-### Hi there, I'm [Muhammad Zubair](https://mzubair21.github.io) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hi there, I'm [Muhammad Zubair]([website]) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 I'm
 
@@ -12,10 +12,10 @@ I'm
 
 <br />
 <br />
-
-[![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)](https://mzubair21.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzubihyper&screen_name=zubihyper)
-
+<p align="center">
+[![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)]([website])
+[![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)]([twitter])
+</p>
 <br />
 <p align="left">
   I am a Software Engineer and a Web Developer. I am always dedicated to my work and learning everything. I am seeking an opportunity to exercise my skills and gain knowledge and expertise.
@@ -49,11 +49,12 @@ I'm
 
 ### Connect with me:
 
+<p align="center">
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+</p>
 <br />
 
 [website]: http://mzubair21.github.io
