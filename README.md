@@ -8,12 +8,18 @@ I'm
 - Speaker🎤
 - Writer✒️
 
+<br />
+<p align="right">
+<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/mzubair21/master/svg/emojis/mzubair21.svg" />
+
+<p align="center">
+
 [![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)](https://mzubair21.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzubihyper&screen_name=zubihyper)
 
+</p>
 
-<br />
-<img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/emojis/arsalan.svg" />
+</p>
 <br />
 <br />
 <p align="center">
