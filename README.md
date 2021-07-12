@@ -10,8 +10,6 @@ I'm
 
 <img align="right" height="270px" width="450px" src="https://github.com/mzubair21/welcome/blob/5befc583d82cc4ef42f9c2406584db53b5cafd56/svg/emojis/mzubair21.svg" />
 
-<br />
-<br />
 <p align="center">
 
 ### Connect with me:
@@ -57,8 +55,7 @@ I'm
   <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-
-
+<br />
 
 [website]: http://mzubair21.github.io
 [twitter]: https://twitter.com/zubihyper
