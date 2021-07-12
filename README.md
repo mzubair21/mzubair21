@@ -8,7 +8,7 @@ I'm
 - Speaker🎤
 - Writer✒️
 
-<img align="right" height="270px" width="450px" src="" />
+<img align="right" height="270px" width="450px" src="https://github.com/mzubair21/welcome/blob/5befc583d82cc4ef42f9c2406584db53b5cafd56/svg/emojis/mzubair21.svg" />
 
 <br />
 <br />
@@ -46,7 +46,6 @@ I'm
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
----
 
 ### Connect with me:
 
