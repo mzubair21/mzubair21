@@ -1,5 +1,5 @@
 ### Hi there, I'm [Muhammad Zubair](https://mzubair21.github.io) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
-
+<p align="left">
 I'm
 
 - Front End Developer 💻
@@ -7,21 +7,17 @@ I'm
 - Web Developer 👨‍💻
 - Speaker🎤
 - Writer✒️
+</p>
 
-<br />
-<p>
 <p align="right">
 <img height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/welcome/28216dc5bcd50082cf280512874d42d9bcb9b9bb/svg/emojis/mzubair21.svg?token=ANY3XUQILG7CZFT53YHDWB3A5Q6RC" />
-
-<br />
-<br />
 
 [![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)](https://mzubair21.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzubihyper&screen_name=zubihyper)
 
 </p>
-
-
+<br />
+<br />
 
 <p align="left">
    I'm a Computer Science Junior and a Full Stack (MERN) Developer and open source contributor. Being MLH'20 Fellow, I'm active Next.Js Contributor. Writing down what I have learned and sharing it with others is what I love to do. I love to write and speak about new technologies.
@@ -36,7 +32,7 @@ I am also an active member of technical communities. I am DSC LEAD and Microsoft
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=khattakdev&&show_icons=true"/>
   </a>
-</p>
+
 
 ---
 
