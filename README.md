@@ -40,6 +40,7 @@ I'm
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
@@ -50,10 +51,12 @@ I'm
 ### Connect with me:
 
 <p align="center">
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 </p>
 <br />
 
