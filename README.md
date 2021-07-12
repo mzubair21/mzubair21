@@ -13,6 +13,17 @@ I'm
 <br />
 <br />
 <p align="center">
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 [![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)]([website])
 [![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)]([twitter])
 </p>
@@ -38,27 +49,16 @@ I'm
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-    <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/frameworks/jquery.svg" alt="jQuery" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/mzubair21/welcome/blob/b7f3357234f6b46adb9b38daf608236e89231727/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 
-### Connect with me:
 
-<p align="center">
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-</p>
-<br />
 
 [website]: http://mzubair21.github.io
 [twitter]: https://twitter.com/zubihyper
