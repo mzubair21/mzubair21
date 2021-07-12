@@ -8,7 +8,6 @@ I'm
 - Speaker🎤
 - Writer✒️
 
-<br />
 <img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/mzubair21/welcome/db8d9fd7ef516adb0490647226840c08b155b24b/svg/emojis/mzubair21.svg?token=ANY3XUVVLC7DHKDBZN55XWLA5Q7R2" />
 
 <br />
@@ -24,7 +23,6 @@ I'm
 </p>
 
 <br />
-<br />
 <!-- Statistics -->
 
 <p align="center" >
@@ -35,7 +33,6 @@ I'm
 
 ---
 
-<br />
 
 ### - Languages and Tools...
 
@@ -50,6 +47,7 @@ I'm
 </p>
 
 <br />
+<p align="center">
 
 ### Connect with me:
 
@@ -57,6 +55,8 @@ I'm
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+</p>
 
 <br />
 
