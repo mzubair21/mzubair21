@@ -1,11 +1,16 @@
-### Hi there, I'm [Arsalan](https://khattak.dev) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hi there, I'm [Muhammad Zubair](https://mzubair21.github.io) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 I'm
 
-- Full Stack Developer 💻
+- Front End Developer 💻
 - Open Source Contributor 🤝
+- Web Developer 👨‍💻
 - Speaker🎤
 - Writer✒️
+
+[![Website](https://img.shields.io/website?label=M.Zubair&style=for-the-badge&url=https%3A%2F%2Fmzubair21.github.io)](https://mzubair21.github.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zubihyper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzubihyper&screen_name=zubihyper)
+
 
 <br />
 <img align="right" height="270px" width="450px" src="https://raw.githubusercontent.com/khattakdev/khattakdev/master/svg/emojis/arsalan.svg" />
