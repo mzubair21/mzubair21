@@ -60,5 +60,5 @@ I'm
 
 [website]: http://mzubair21.github.io
 [twitter]: https://twitter.com/zubihyper
-[linkedin]: http://https://www.linkedin.com/in/muhammad-zubair-954306198
-[instagram]: http://https://www.instagram.com/zubihyper
+[linkedin]: http://www.linkedin.com/in/muhammad-zubair-954306198
+[instagram]: http://www.instagram.com/zubihyper
