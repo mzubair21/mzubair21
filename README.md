@@ -60,7 +60,7 @@ I'm
 
 ---
 
-![@mzubair21's Holopin board](https://holopin.me/mzubair21)](https://holopin.io/@mzubair21)
+![@mzubair21's Holopin board](https://holopin.me/mzubair21)
 
 [website]: http://mzubair21.github.io
 [twitter]: https://twitter.com/zubihyper
